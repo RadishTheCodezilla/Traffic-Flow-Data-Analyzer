@@ -77,3 +77,4 @@ This project enhanced my skills in:
 
 This project is for **academic use** as part of the **University of Westminster Software Development coursework**.
 
+Additionally, the source code is made available under the [MIT License](LICENSE). You are free to use, modify, and distribute this project with proper attribution.
