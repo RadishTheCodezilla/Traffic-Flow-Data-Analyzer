@@ -1,5 +1,5 @@
 # Traffic-Flow-Data-Analyzer
-![Histogram-demo](path/to/image.png)
+![Histogram-demo](/Images/Histogram.png)
 
 As part of our Software Development coursework, I built a command-line application in Python to analyze traffic data collected from two key junctions.
 ## 🚦 Traffic Flow Data Analyzer — Python-Based Analytical Tool
